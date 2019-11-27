@@ -1,0 +1,22 @@
+{
+  "name": "stravabien",
+  "version": "1.0.0",
+  "description": "Hello Strava",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugandplay/stravabien.git"
+  },
+  "author": "Guillaume Labedan",
+  "license": "SEE LICENSE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/plugandplay/stravabien/issues"
+  },
+  "homepage": "https://github.com/plugandplay/stravabien#readme",
+  "dependencies": {
+    "strava-v3": "^2.0.2"
+  }
+}
